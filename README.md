@@ -9,3 +9,6 @@ Repositório para salvar os estudos que foram realizado no dia.
 ### 26/09/2023
  - [Utilize o Spring Cloud Gateway nas suas aplicações web!](https://www.youtube.com/watch?v=-XZgwcs6YEU)
  - [Arquitetura de solução para um sistema de pagamentos - Ep. 01](https://www.youtube.com/watch?v=ifgjBx74eOA)
+
+### 30/09/2023
+ - [Drag and drop Kanban columns in React Typescript](https://www.youtube.com/watch?v=RG-3R6Pu_Ik)
